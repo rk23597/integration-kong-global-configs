@@ -1,0 +1,3 @@
+the reason is why I am putting environment specific gobal configuration - 
+1) some plugins might have different configuration for each environment 
+2) there may possible that each environment have there own control plane specifically for global plugins

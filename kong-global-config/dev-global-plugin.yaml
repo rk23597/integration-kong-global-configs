@@ -1,0 +1,2 @@
+the reason is why I am putting environment specific gobal configuration - 
+1) some plugins might have different configuration for each environment 
